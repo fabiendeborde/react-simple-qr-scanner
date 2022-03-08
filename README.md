@@ -1,0 +1,1 @@
+react-simple-qr-scanner
