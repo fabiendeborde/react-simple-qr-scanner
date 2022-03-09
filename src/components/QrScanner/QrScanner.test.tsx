@@ -5,6 +5,6 @@ import QrScanner from './QrScanner'
 
 describe('QrScanner', () => {
   test('renders the QrScanner component', () => {
-    render(<QrScanner />)
+    render(<QrScanner onScan={(decoded) => console.log(decoded) }/>)
   })
 })
