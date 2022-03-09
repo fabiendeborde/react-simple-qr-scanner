@@ -27,6 +27,7 @@ module.exports = {
   ],
   rules: {
     // note you must disable the base rule as it can report incorrect errors
+    'no-undef': 'off',
     'no-use-before-define': 'off',
     '@typescript-eslint/no-use-before-define': ['error']
   }
