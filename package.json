@@ -1,6 +1,6 @@
 {
   "name": "@fabiendeborde/react-simple-qr-scanner",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple React wrapper around browser native BarcodeDetector API",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
