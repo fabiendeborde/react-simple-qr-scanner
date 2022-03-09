@@ -20,7 +20,8 @@
   "license": "ISC",
   "repository": "https://github.com/FabienDeborde/react-simple-qr-scanner.git",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/FabienDeborde"
+    "registry": "https://npm.pkg.github.com/FabienDeborde",
+    "access": "public"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^21.0.2",
